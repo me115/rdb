@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/cupcake/rdb"
-	"github.com/cupcake/rdb/nopdecoder"
+	"github.com/spinlock/rdb"
+	"github.com/spinlock/rdb/nopdecoder"
 )
 
 type decoder struct {

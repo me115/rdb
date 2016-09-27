@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"encoding/base64"
 
-	"github.com/cupcake/rdb"
-	. "launchpad.net/gocheck"
+	"github.com/spinlock/rdb"
+	. "gopkg.in/check.v1"
 )
 
 type EncoderSuite struct{}
